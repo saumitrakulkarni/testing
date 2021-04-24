@@ -1,3 +1,4 @@
+*.r linguist-detectable=true
 *.rebol linguist-detectable=false
 *.reb linguist-detectable=false
 *.r2 linguist-detectable=false
